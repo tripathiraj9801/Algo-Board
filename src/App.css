@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: #fff6e6;
+}
+
+.whiteboard {
+  background-color: #fff6e6;
+}
+
+.dustbin {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 4%;
+  margin-bottom: 3rem;
+  margin-right: 3rem;
+}
